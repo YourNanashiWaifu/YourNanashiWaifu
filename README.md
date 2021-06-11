@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end and data science
 - 🌱 I’m currently learning JavaScript, Python, PHP and MySQL
 - 💞️ I’m looking to collaborate on Open Source Community
-- 📫 You can reach me on Twitter
+- 📫 You can reach me on Twitter or Discord (Usizi#5465)
 
 <!---
 YourNanashiWaifu/YourNanashiWaifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
